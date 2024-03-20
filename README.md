@@ -30,6 +30,7 @@ OCTO_CLIENT_TOKEN=<your key here>
 Run `dev` script to fire up server.
 ```bash
 npm run dev
+asssim
 ```
 
 That's it! if you head to `localhost:3000` you should see the app running.
